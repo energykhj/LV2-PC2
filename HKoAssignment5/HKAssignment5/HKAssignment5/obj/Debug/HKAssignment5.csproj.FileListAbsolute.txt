@@ -1,0 +1,10 @@
+D:\CPA Level2\PROG1815-Programming ConceptII\Assignments\HKoAssignment5\HKAssignment5\HKAssignment5\bin\Debug\HKAssignment5.exe.config
+D:\CPA Level2\PROG1815-Programming ConceptII\Assignments\HKoAssignment5\HKAssignment5\HKAssignment5\bin\Debug\HKAssignment5.exe
+D:\CPA Level2\PROG1815-Programming ConceptII\Assignments\HKoAssignment5\HKAssignment5\HKAssignment5\bin\Debug\HKAssignment5.pdb
+D:\CPA Level2\PROG1815-Programming ConceptII\Assignments\HKoAssignment5\HKAssignment5\HKAssignment5\obj\Debug\HKAssignment5.csprojAssemblyReference.cache
+D:\CPA Level2\PROG1815-Programming ConceptII\Assignments\HKoAssignment5\HKAssignment5\HKAssignment5\obj\Debug\HKAssignment5.Properties.Resources.resources
+D:\CPA Level2\PROG1815-Programming ConceptII\Assignments\HKoAssignment5\HKAssignment5\HKAssignment5\obj\Debug\HKAssignment5.csproj.GenerateResource.cache
+D:\CPA Level2\PROG1815-Programming ConceptII\Assignments\HKoAssignment5\HKAssignment5\HKAssignment5\obj\Debug\HKAssignment5.csproj.CoreCompileInputs.cache
+D:\CPA Level2\PROG1815-Programming ConceptII\Assignments\HKoAssignment5\HKAssignment5\HKAssignment5\obj\Debug\HKAssignment5.exe
+D:\CPA Level2\PROG1815-Programming ConceptII\Assignments\HKoAssignment5\HKAssignment5\HKAssignment5\obj\Debug\HKAssignment5.pdb
+D:\CPA Level2\PROG1815-Programming ConceptII\Assignments\HKoAssignment5\HKAssignment5\HKAssignment5\obj\Debug\HKAssignment5.HKAssignment5.resources
