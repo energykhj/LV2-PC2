@@ -3,7 +3,7 @@
  * Prof. Harry Scanlan
  * Heuijin Ko(8187452) 
  * HKoAssignment4
- * OOP: Encapsulatition
+ * OOP: Encapsulation
  */
 using System;
 using System.Windows.Forms;
