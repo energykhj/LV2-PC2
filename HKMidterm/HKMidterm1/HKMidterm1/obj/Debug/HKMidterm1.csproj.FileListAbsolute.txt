@@ -1,0 +1,10 @@
+D:\CPA Level2\PROG1815-Programming ConceptII\Midterm\HKMidterm1\HKMidterm1\obj\Debug\HKMidterm1.csprojAssemblyReference.cache
+D:\CPA Level2\PROG1815-Programming ConceptII\Midterm\HKMidterm1\HKMidterm1\obj\Debug\HKMidterm1.Form1.resources
+D:\CPA Level2\PROG1815-Programming ConceptII\Midterm\HKMidterm1\HKMidterm1\obj\Debug\HKMidterm1.Properties.Resources.resources
+D:\CPA Level2\PROG1815-Programming ConceptII\Midterm\HKMidterm1\HKMidterm1\obj\Debug\HKMidterm1.csproj.GenerateResource.cache
+D:\CPA Level2\PROG1815-Programming ConceptII\Midterm\HKMidterm1\HKMidterm1\obj\Debug\HKMidterm1.csproj.CoreCompileInputs.cache
+D:\CPA Level2\PROG1815-Programming ConceptII\Midterm\HKMidterm1\HKMidterm1\bin\Debug\HKMidterm1.exe.config
+D:\CPA Level2\PROG1815-Programming ConceptII\Midterm\HKMidterm1\HKMidterm1\bin\Debug\HKMidterm1.exe
+D:\CPA Level2\PROG1815-Programming ConceptII\Midterm\HKMidterm1\HKMidterm1\bin\Debug\HKMidterm1.pdb
+D:\CPA Level2\PROG1815-Programming ConceptII\Midterm\HKMidterm1\HKMidterm1\obj\Debug\HKMidterm1.exe
+D:\CPA Level2\PROG1815-Programming ConceptII\Midterm\HKMidterm1\HKMidterm1\obj\Debug\HKMidterm1.pdb
