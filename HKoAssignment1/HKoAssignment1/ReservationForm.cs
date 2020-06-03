@@ -116,12 +116,12 @@ namespace HKoAssignment1
                     k++;
                     if (sMode == "debug")
                     {
-                        this.Controls.Find("button" + k, true)
-                            .FirstOrDefault().Text = "TestName"+k;
-                        sArryReserved[i, j] = lbSeatRow.Items[i].ToString()
-                            + j + ", TestName" + k;
+                        this.Controls.Find("button" + k, true).FirstOrDefault().Text = "TestName"+k;
+                        this.Controls.Find("button" + k, true).FirstOrDefault().BackColor = Color.Red;
+                        sArryReserved[i, j] = lbSeatRow.Items[i].ToString() + j + ", TestName" + k;
                         iBookCnt++;
                         rtbShowAll.Clear();
+
                     }
                     else
                     {
